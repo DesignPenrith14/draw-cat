@@ -1,5 +1,5 @@
 {
-  "name": "@DesignPenrith14/draw-cat",
+  "name": "draw-cat-designpenrith14",
   "version": "1.0.1",
   "description": "Show cat in bash DesignPenrith14",
   "main": "src/index.js",
